@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, C++, SQL and Node
+- 🌱 I’m currently learning Python, C++ and SQL
 - 📫 How to reach me: @pablohanzo
 
 
